@@ -114,8 +114,8 @@ M.S. Data Science — University of Miami
 Faculty Mentor: Dr. Liang Liang
 
 If you’d like to connect, feel free to reach out:
-💼 LinkedIn: [JadeMuyambo]
-🌐 Portfolio: [MyPortfolio]
+💼 LinkedIn: [https://www.linkedin.com/in/jade-m-5292a7177/]
+🌐 Portfolio: [https://jademuyambo.carrd.co]
 
 ## Acknowledgement
 Thank you to the ASA South Florida Chapter for organizing the Student Data Challenge and providing the dataset and evaluation framework.
